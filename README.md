@@ -1,16 +1,28 @@
-## Hi there 👋
+# Merhaba, ben Kerem 👋
 
-<!--
-**kereminatolyesi/kereminatolyesi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Öğrenciyim ve teknolojiye meraklıyım.
 
-Here are some ideas to get you started:
+## İlgi Alanlarım
+- 💻 Kodlama
+- 🤖 Yapay Zeka
+- 🔌 Elektronik
+- 🛠️ Robotik
+- 🎬 İçerik Üretimi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Şu Anda Üzerinde Çalıştıklarım
+- ESP32 projeleri
+- Elektronik Temelleri
+- Yapay zeka denemeleri
+- YouTube içerikleri
+
+## Amaçlarım
+- Yeni teknolojiler öğrenmek
+- Daha fazla proje geliştirmek
+- Açık kaynak projeler paylaşmak
+- Öğrendiklerimi başkalarına aktarmak
+
+## Projeler
+Buradaki repolarda geliştirdiğim projeleri, kodları ve notları bulabilirsiniz.
+
+---
+⭐ Öğrenmeye, üretmeye ve paylaşmaya devam.
