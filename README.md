@@ -1,28 +1,31 @@
 # Merhaba, ben Kerem 👋
 
-🎓 Öğrenciyim ve teknolojiye meraklıyım.
+🎓 13 yaşında bir öğrenciyim ve teknolojiye ilgi duyuyorum.
 
-## İlgi Alanlarım
-- 💻 Kodlama
+💡 Kodlama, elektronik, yapay zeka ve robotik alanlarında projeler geliştiriyor, yeni şeyler öğreniyor ve öğrendiklerimi paylaşıyorum.
+
+## 🚀 İlgi Alanlarım
+
 - 🤖 Yapay Zeka
 - 🔌 Elektronik
+- ⚡ ESP32
+- 💻 C++
+- 🖥️ Windows
 - 🛠️ Robotik
 - 🎬 İçerik Üretimi
 
-## Şu Anda Üzerinde Çalıştıklarım
-- ESP32 projeleri
-- Elektronik Temelleri
-- Yapay zeka denemeleri
-- YouTube içerikleri
+## 📂 Bu Profilde
 
-## Amaçlarım
-- Yeni teknolojiler öğrenmek
-- Daha fazla proje geliştirmek
-- Açık kaynak projeler paylaşmak
-- Öğrendiklerimi başkalarına aktarmak
+- 📜 Proje kodları
+- 🔬 Elektronik çalışmaları
+- 🧪 Deneyler
+- 📚 Öğrenme notları
+- 🌍 Açık kaynak projeler
 
-## Projeler
-Buradaki repolarda geliştirdiğim projeleri, kodları ve notları bulabilirsiniz.
+## 🎯 Hedefim
 
----
-⭐ Öğrenmeye, üretmeye ve paylaşmaya devam.
+Yeni teknolojiler öğrenmek, faydalı projeler geliştirmek ve bunları paylaşmak.
+
+## 📺 Kerem'in Atölyesi
+
+Teknoloji, elektronik, yapay zeka ve proje geliştirme üzerine içerikler üretiyorum.
