@@ -1,5 +1,9 @@
 # Merhaba, ben Kerem 👋
 
+![Status](https://img.shields.io/badge/Status-Learning-blue)
+![Focus](https://img.shields.io/badge/Focus-Teknoloji%20%26%20AI-orange)
+![Level](https://img.shields.io/badge/Level-Student-green)
+
 🎓 13 yaşında bir öğrenciyim ve teknolojiye ilgi duyuyorum.
 
 💡 Kodlama, elektronik, yapay zeka ve robotik alanlarında projeler geliştiriyor, yeni şeyler öğreniyor ve öğrendiklerimi paylaşıyorum.
