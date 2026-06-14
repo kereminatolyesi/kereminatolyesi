@@ -1,9 +1,8 @@
 # Merhaba, ben Kerem 👋
 
 ![Status](https://img.shields.io/badge/Status-Learning-blue)
-![Focus](https://img.shields.io/badge/Focus-Teknoloji%20%26%20AI-orange)
+![Focus](https://img.shields.io/badge/Focus-Tecnology%20%26%20AI-orange)
 ![Level](https://img.shields.io/badge/Level-Student-green)
-![Tag](https://img.shields.io/badge/Learning%20by%20Building-Active-success)
 
 🎓 13 yaşında bir öğrenciyim ve teknolojiye ilgi duyuyorum.
 
