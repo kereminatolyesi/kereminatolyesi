@@ -20,7 +20,7 @@
 
 ## 📂 Bu Profilde
 
-- 📜 Proje kodları
+- 📜 Proje şemaları
 - 🔬 Elektronik çalışmaları
 - 🧪 Deneyler
 - 📚 Öğrenme notları
